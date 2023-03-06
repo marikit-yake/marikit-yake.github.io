@@ -1,21 +1,21 @@
 {
-  "name": "ptprashanttripathi.github.io",
+  "name": "marikit-yake.github.io",
   "version": "1.0.0",
-  "description": "My Portfolio site using Material Design. [Mobile First Layout I Fully Responsive]",
+  "description": "My first fully Responsive Portfolio]",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PtPrashantTripathi/ptprashanttripathi.github.io.git"
+    "url": "git+https://github.com/marikit-yake/marikit-yake.github.io.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PtPrashantTripathi/ptprashanttripathi.github.io/issues"
+    "url": "https://github.com/marikit-yake/marikit-yake.github.io/issues"
   },
-  "homepage": "https://github.com/PtPrashantTripathi/ptprashanttripathi.github.io#readme",
+  "homepage": "https://github.com/marikit-yake/marikit-yake.github.io.git#readme",
   "dependencies": {
     "body-parser": "^1.20.1",
     "express": "^4.18.2"

@@ -1,14 +1,14 @@
 [
     {
-        "name": "vedic",
-        "url": "https://github.com/vedic-lang/vedic",
+        "name": "CDOT-Comparative-Analysis",
+        "url": "https://github.com/marikit-yake/CDOT-Comparative-Analysis",
         "description": "Vedic is World first working Programming launguage in Sanskrit",
-        "banner": "https://opengraph.githubassets.com/06c483a828bce3f9cabb299a23725044daf11f2d741d3b315667e8eaed76cfbb/vedic-lang/vedic",
+        "banner": "https://cdn-images-1.medium.com/max/1600/1*pz-osmqaefYRYgzK27ELmg.jpeg",
         "color": "#f1e05a",
-        "lang": "JavaScript",
+        "lang": "Python",
         "date": "2022-04-11T12:06:09Z",
-        "stars": 82,
-        "forks": 11,
+        "stars": 0,
+        "forks": 0,
         "generatedOn": "2023-03-01 01:45:27.838686"
     },
     {
