@@ -24,7 +24,7 @@
         "generatedOn": "2023-03-01 01:45:27.838686"
     },
     {
-        "name": "Investigating causes of Heart Disease, Hypothesis Tests",
+        "name": "Investigating causes of Heart Disease, Hypothesis Testing",
         "url": "https://github.com/marikit-yake/HeartDisease-HypothesisTest",
         "description": "A final class project; an analysis exploring causes of Heart Disease with Hypothesis Testing using UC Irving's Machine Learning dataset.",
         "banner": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/health-care-concept-royalty-free-image-185000832-1549647918.jpg",
@@ -53,7 +53,7 @@
         "description": "All the code exercises that I've completed and kept the corresponding scripts for. Includes: CodeWars, Leetcode, and more.",
         "banner": "https://res.cloudinary.com/practicaldev/image/fetch/s--RCk0QtXb--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/hj2b5jw0i74ef35vb7se.PNG",
         "color": "#2455d3",
-        "lang": " Python, SQL",
+        "lang": " Python, R, SQL",
         "date": "2019-04-16T10:02:13Z",
         "stars": 0,
         "forks": 0,
