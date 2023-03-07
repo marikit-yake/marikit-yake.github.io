@@ -1,7 +1,7 @@
 {
   "name": "marikit-yake.github.io",
   "version": "1.0.0",
-  "description": "My first fully Responsive Portfolio]",
+  "description": "My first fully Responsive Portfolio",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
