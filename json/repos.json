@@ -62,7 +62,7 @@
     {
         "name": "Palettes.jl",
         "url": "https://github.com/marikit-yake/Palettes",
-        "description": "A tool-kit, built using the Julia programming language, for creating Palettes or generating randomized colors.",
+        "description": "A tool-kit, built using the Julia programming language, for creating Palettes of related colors or just generating randomized colors.",
         "banner": "https://upload.wikimedia.org/wikipedia/commons/0/04/Oil_painting_palette.jpg",
         "color": "#a270ba",
         "lang": " Julia",
