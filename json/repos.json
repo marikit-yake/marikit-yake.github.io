@@ -2,7 +2,7 @@
     {
         "name": "CDOT Traffic and GHG, Comparative Analysis",
         "url": "https://github.com/marikit-yake/CDOT-Comparative-Analysis",
-        "description": "A comparative analysis examining rates of traffic and greenhouse gas emissions between public and private transit in Colorado.",
+        "description": "A comparative analysis examining rates of traffic and greenhouse gas emissions between public and private transit in Colorado. Write-up (will be) available on Medium!",
         "banner": "https://cdn-images-1.medium.com/max/1600/1*pz-osmqaefYRYgzK27ELmg.jpeg",
         "color": "#3572A5",
         "lang": " Python",
@@ -14,7 +14,7 @@
     {
         "name": "US Census and HUD data, Exploratory Data Analysis",
         "url": "https://github.com/marikit-yake/US-Census-HUD-EDA",
-        "description": "An exploratory analysis of Homelessness in the US and the rates of vacant homes according to US dept. of HUD and the US Census.",
+        "description": "An exploratory analysis of Homelessness in the US and the rates of vacant homes according to US dept. of HUD and the US Census. Compares rates of homelessness across different demographic dimensions (race, gender, location).",
         "banner": "https://www.architecturalrecord.com/ext/resources/Issues/2021/09-September/Chicago-Housing.jpg",
         "color": "#3572A5",
         "lang": " Python",
@@ -26,7 +26,7 @@
     {
         "name": "Investigating causes of Heart Disease, Hypothesis Testing",
         "url": "https://github.com/marikit-yake/HeartDisease-HypothesisTest",
-        "description": "An analysis exploring causes of Heart Disease with Hypothesis Testing using UC Irving's Machine Learning dataset.",
+        "description": "An analysis examining and determining causes of Heart Disease using hypothesis testing implemented in Python. Performed using the UC Irving's Machine Learning dataset on Heart Disease.",
         "banner": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/health-care-concept-royalty-free-image-185000832-1549647918.jpg",
         "color": "#3572A5",
         "lang": " Python",
@@ -38,7 +38,7 @@
     {
         "name": "Collecting Colorado Housing listings from Craigslist",
         "url": "https://github.com/marikit-yake/Craigslist-WebScraper",
-        "description": "A webscraping project that collected all Craigslist Housing posts data across all Colorado sites for a given day.",
+        "description": "A webscraping project that collected available information from Craigslist Housing posts across all Colorado sites. Generated datasets to use analysis to decide on a new place to move to in Colorado.",
         "banner": "https://www.parsehub.com/blog/content/images/size/w2000/2019/09/scrape-craigslist-data.jpg",
         "color": "#3572A5",
         "lang": " Python",
@@ -62,7 +62,7 @@
     {
         "name": "Palettes.jl",
         "url": "https://github.com/marikit-yake/Palettes",
-        "description": "A tool-kit built in Julia for creating Palettes or randomized colors.",
+        "description": "A tool-kit, built using the Julia programming language, for creating Palettes or generating randomized colors.",
         "banner": "https://upload.wikimedia.org/wikipedia/commons/0/04/Oil_painting_palette.jpg",
         "color": "#a270ba",
         "lang": " Julia",
