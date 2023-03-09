@@ -1,4 +1,4 @@
-<p align="center"><a href="https://ptprashanttripathi.github.io"><img alt="linkpe app" src="/img/img-bg-1.jpg" width="300vw"/></a></p>
+<!-- <p align="center"><a href="https://ptprashanttripathi.github.io"><img alt="linkpe app" src="/img/img-bg-1.jpg" width="300vw"/></a></p>
 <p align="center">
 	<a href="https://github.com/PtPrashantTripathi"><img alt="Devloper" src="https://img.shields.io/badge/Devloper-Pt.%20Prashant%20Tripathi-Success.svg?style=flat-square"/></a>
 	<a href="https://github.com/PtPrashantTripathi/ptprashanttripathi.github.io/LICENSE"><img alt="License" src="https://img.shields.io/github/license/PtPrashantTripathi/ptprashanttripathi.github.io.svg?style=flat-square"/></a>
@@ -97,4 +97,4 @@ My Portfolio site using Material Design. Mobile First Layout I Fully Responsive
 <hr>
 <p align="center">  
 Developed with ❤️ in India 🇮🇳 
-</p>
+</p> -->
